@@ -1,0 +1,28 @@
+.center{
+    text-align: center;
+    padding: 5px 0;
+}
+
+.product_card{
+    border: 1px solid black;
+    border-radius: 15px;
+    padding: 10px;
+    margin: 5px 0;
+   
+}
+.produc{
+    display: flex;
+}
+.product_image{
+   /* background-image: url('https://picsum.photos/200'); */
+   background-image: url('https://images.squarespace-cdn.com/content/v1/5d90cb67886fb8184560c3ef/1569771573803-JUBCR2HCZCPSTX2VZLE9/PROF_AMATHIS.jpg?format=1000w');
+     height: 250px;
+    width: 250px;
+    background-size: cover;
+    /* background-color: chocolate;  */
+
+}
+.control_btn{
+    display: flex;
+    justify-content: space-around;
+}
